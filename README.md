@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**devsiqueir/devsiqueir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There! 👋</h1>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siqueiradev/)](https://www.linkedin.com/in/siqueiradev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Outlook Badge](https://img.shields.io/badge/-siqueiradev@outlook.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:siqueiradev@outlook.com)](mailto:siqueiradev@outlook.com)
+
+
+
+## My name is Ricardo Siqueira
+(Java | Spring Boot | SQL Databases | Docker ) 🚀
+- 👩‍💻 Software Developer @[IBM](https://www.ibm.com/)
+- 🎓 Bachelor's degree in Systems Analysis and Development
+
+
+<div align="left">
+  
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsiqueir&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+
+  
+ </div>
+
+
