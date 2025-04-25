@@ -9,7 +9,7 @@
 
 ## My name is Ricardo Siqueira
 (Java | Spring Boot | SQL Databases | Docker ) 🚀
-- 👩‍💻 Software Developer @[IBM](https://www.ibm.com/)
+- 💻 Software Developer @[IBM](https://www.ibm.com/)
 - 🎓 Bachelor's degree in Systems Analysis and Development
 
 
